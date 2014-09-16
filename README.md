@@ -10,9 +10,11 @@ Written in Python 2. Build with py2app, pyobjc.
 - Global color change
 - More to come...
 
-###Building
+###How To Install
 1. Spin that shit to the right dir with a `cd`
-2. Build the .app with `python setup.py py2app`
+2. Open Terminal and run the command `python setup.py py2app`
+3. After a succesful build go to the folder `dist` and run `LIFX Menu`
+4. Enjoy!
 
 ###Credits
 https://github.com/magicmonkey/lifxjs  
